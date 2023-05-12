@@ -6,7 +6,6 @@ Parameters:
 n - smoothness (number of lines per spline section),
 m - number of splines in the final 3d model,
 circle N - number of lines for each section of the circle,
-circle M - number of circles
 
 made by Marina Senoshenko - FIT, group 20209
 This app made using: Swing Java, lombok, pom.xml
